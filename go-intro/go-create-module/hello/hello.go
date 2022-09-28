@@ -8,7 +8,7 @@ import (
 
 func main() {
 	// Get a greeting message and print it.
-	message := greetings.Hello("Gladys")
+	message := greetings.Hello("Jee Meng")
 	fmt.Println(message)
 }
 
